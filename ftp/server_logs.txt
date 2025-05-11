@@ -1,0 +1,19 @@
+===== SYSTEM LOGS ===== 
+Access attempt: 192.168.1.45 - FAILED - [15/04/2025]
+Access attempt: 192.168.1.67 - FAILED - [15/04/2025]
+Access attempt: 192.168.1.23 - SUCCESS - [16/04/2025]
+
+SECURITY MODULE: Password verification
+49 69 65 75 66 4F 79 6F 41 78 71 61
+
+HINTS:
+- Vowels are honest. Consonants? Not so much.
+- Try shifting—but not for everyone.
+- Pedri_Striker + 4 but with… complications.
+- One cipher to fool them all, one text file to hide it.
+
+NOTE TO ADMIN: Password pedri scheduled for 05/15/2025
+Don't store plaintext! Use proper encryption next time.
+
+
+o Hala Madrid 
